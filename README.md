@@ -1,6 +1,4 @@
 # Bank-Loan-Data-Analysis-Project
-Bank Loan Data Analysis Project
-🚀 Excited to share my recent project on Bank Loan Data Analysis! 📊
 
 As a Data Analyst, I've had the opportunity to dive deep into our loan data and extract meaningful insights. Here's a quick overview of what I've been working on:
 
